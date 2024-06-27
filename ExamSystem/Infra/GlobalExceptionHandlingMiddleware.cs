@@ -50,6 +50,7 @@ public class GlobalExceptionHandlingMiddleware
             PropertyNamingPolicy = JsonNamingPolicy.CamelCase
         };
         context.Response.ContentType = "application/json";
+        context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
         await context.Response.WriteAsync(JsonSerializer.Serialize(response, jsonOptions));
     }
 }

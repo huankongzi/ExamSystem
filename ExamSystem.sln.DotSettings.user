@@ -4,5 +4,6 @@
     &lt;TestId&gt;NUnit3x::79BDBE01-36F4-488E-9197-4662E0023459::net8.0::TestExamSystem.TestRandomStudentCreator&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::79BDBE01-36F4-488E-9197-4662E0023459::net8.0::TestExamSystem.TestHeadEndToMiddleStudentOrder&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::79BDBE01-36F4-488E-9197-4662E0023459::net8.0::TestExamSystem.RosterTest.Should_ReturnOrderedStudents_WhenGetEnumerator_Order_GivenStudents&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::79BDBE01-36F4-488E-9197-4662E0023459::net8.0::TestExamSystem.RosterTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
