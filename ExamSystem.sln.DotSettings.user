@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=996abc41_002D7d3c_002D410d_002Dbd30_002D706690e73752/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_ThrowException_When_Generate_GivenNumberIsNegetive" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::79BDBE01-36F4-488E-9197-4662E0023459::net8.0::TestExamSystem.TestRandomStudentCreator&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::79BDBE01-36F4-488E-9197-4662E0023459::net8.0::TestExamSystem.TestHeadEndToMiddleStudentOrder&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::79BDBE01-36F4-488E-9197-4662E0023459::net8.0::TestExamSystem.RosterTest.Should_ReturnOrderedStudents_WhenGetEnumerator_Order_GivenStudents&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

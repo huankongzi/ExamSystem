@@ -1,0 +1,7 @@
+@ExamSystem_HostAddress = http://localhost:5170
+@number = 10
+
+GET {{ExamSystem_HostAddress}}/api/Student/generate/{{number}}
+Accept: application/json
+
+###
