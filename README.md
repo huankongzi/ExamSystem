@@ -12,3 +12,6 @@ health check
 
 Unit test
 ![image](https://github.com/huankongzi/ExamSystem/assets/50017872/ea14679c-6aa8-4672-8a69-e456d3b426ed)
+
+swagger
+![image](https://github.com/huankongzi/ExamSystem/assets/50017872/eae00ca1-f130-43d9-9df3-50fe6aa05030)
